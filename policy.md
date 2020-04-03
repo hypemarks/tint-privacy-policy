@@ -1,5 +1,5 @@
 # Privacy Statement
-Revision Date:  01/08/2020
+Revision Date:  04/03/2020
 
 # Introduction
 
@@ -28,7 +28,7 @@ These words have special meanings in this Privacy Statement:
 **customer** means the business or other organization that establishes an account with us or our reseller for the use of our services;
 **services** means our online services for the discovery, curation, management and display of social media postings and other content and related analytics services;
 **site** or **website** refers to www.tintup.com and any other website where this Privacy Statement is posted;
-**social media user** means an individual whose posting or tweet on Facebook, Twitter, Instagram or other social media platform is managed or displayed by our customer using our services;
+**social media user** means an individual whose posting on Facebook, Twitter, Instagram, Tik Tok or other social media platform is managed or displayed by our customer using our services;
 **visitor** means an individual who visits our website, interacts with us at a trade show or other industry event, or communicates with us in some other way other than as an account user, social media user, or other content provider;
 **we**, **our** and **us** refer to Hypemarks, Inc. dba TINT;
 **you** and **your** refer to visitors, account users, social media users, and content users as indicated by the context.
@@ -43,7 +43,10 @@ We collect personal data for our business purposes:
 * to manage our relationship with our customers and provide customer support;
 * to deliver our analytics services to our customers; and
 * to manage our vendors.
-We allow third party advertisers, such as Google and Facebook to collect personal data on our site for the purpose of selling targeted advertisement services.  See Advertising Ecosystem below.
+
+We allow third party advertisers, such as Google and Facebook to collect personal data on our site for the purpose of selling targeted advertisement services. See [Advertising Ecosystem](#advertising-ecosystem) below.
+
+We have included details of how we use data we collect for these purposes in the section below captioned [Data Use](#data-use).
 
 # Data Collection Methods
 
@@ -56,19 +59,17 @@ We and our third-party analytics providers may place a cookie on your browser so
 
 #### Data provided by advertisers
 
-If you arrive at our site by clicking on a link that is part of an advertisement on another site (including an advertisement on a social media platform), the advertising service will identify the link, enabling us to associate you with the advertising parameters we provided to the advertising service.  Advertising services are responsible for the collection, use and disclosure of the data they provide to us in accordance with their published privacy policies.
+If you arrive at our site by clicking on a link that is part of an advertisement on another site (including an advertisement on a social media platform), the advertising service will identify the link, enabling us to associate you with the advertising parameters we provided to the advertising service. For example, we may ask an advertising service to target our ad to individuals that the ad service has identified as having a high interest in social media. If you arrive at our site by means of the link in that ad, we will be able to identify you as having a high interest in social media. Advertising services are responsible for the collection, use and disclosure of the data they provide to us in accordance with their published privacy policies.
 
-For example, we may ask an advertising service to target our ad to individuals that the ad service has identified as having a high interest in social media. If you arrive at our site by means of the link in that ad, we will be able to identify you as having a high interest in social media.
-
-See the section below captioned **Advertising Ecosystem** and **How to Opt Out of Online Data Collection**.
+See the section below captioned [Advertising Ecosystem](#advertising-ecosystem) and [How to Opt Out of Online Data Collection](#how-to-opt-out-of-online-data-collection).
 
 #### Data provided by you as part of your communications with us
 
 We collect personal data that you submit to us as part of a communication with us as a visitor or account user, such as via chat on our site, email, submission of a web form, telephone, or in person (such as at a meeting, trade show or other event).  For example, you may communicate with us as a visitor to obtain more information about our services, or as an account user to request technical support.  The communication may include information that can be used to identify you such as your name, job title, job function, the organization you represent, email address, phone number as well as information about your interest in our company or our services. We do not solicit information from you as part of these communications other than information that is useful to us in light of the purposes described above, but if you choose to volunteer more personal information than we ask for we will collect that as part of the communication.
 
-#### Data provided by you or your organization to establish and maintain the TINT account
+#### Data provided by you or your organization to establish and maintain the TINT account and authorize service users
 
-Our customers are required to name a contact for billing, administrative, technical and other account related communications. We collect the name and business contact information of this account representative, and will require each individual account representative to establish their own set of account credentials (user name and password). If the customer wishes to integrate their social media accounts with our services, we will require the customer to provide the account credentials used by their representatives on those platforms.
+Our customers are required to name a contact for billing, administrative, technical and other account related communications. We collect the name and business contact information of each account representative.  Our customers also authorize service users.  We require each individual account representative and service user to establish their own set of account credentials (user name and password). If the customer wishes to integrate their social media accounts with our services, we will require the customer to provide the account credentials used by their representatives on those platforms.
 
 #### Marketing Partners and Resellers
 
@@ -76,7 +77,7 @@ We have relationships with other companies that help us market, sell and deliver
 
 #### Data we collect on our customer's behalf about social media users
 
-Our customers use the search and filtering features of our services to discover social media content that they may wish to use as part of their marketing efforts.  These features capture the personal data of the individual who posts the content to the extent this information is part of the published post (such as the poster’s name or user name/handle on the platform, profile picture and other identifiers), and any personal information that may be part of the content of the post (such as images, location). We capture the same kind of information that is part of posted comments to the original post, and we capture expressions of sentiment, such as likes and retweets. Please note that we do not capture any social media information in violation of any user privacy settings.  Our service includes a feature that allows our customers to message the social media user for permissions to use the post, so we may also capture additional personal data as part of that communication if the social media user volunteers the information as part of their response.
+Our customers use the search and filtering features of our services to discover social media content that they may wish to use as part of their marketing efforts. These features capture the published personal data of the individual who posts the content (such as the poster’s name or user name/handle on the platform, profile picture and other identifiers), and any personal information that may be part of the content of the post (such as images, location). If there are comments to the post, we capture the commenters’ published personal data and any personal information that is part of the content of the comment.  We capture expressions of sentiment on the post and comments, such as likes and retweets. We do not capture any social media information in violation of any user privacy settings. Our service includes a feature that allows our customers to message the social media user for permissions to use the post, so we may also capture additional personal data as part of that communication if the social media user volunteers the information as part of their response.
 
 #### Combinations of data collected using different methods
 
@@ -101,22 +102,22 @@ We may associate data we have about you as a visitor or account user with person
 
 * to help us develop our service offerings – we use information about your use of our services to measure interest in various features and plan enhancements or new features, and to improve user experience;
 
-* to communicate with you as part of our marketing efforts – we use contract information and information about your use of our services to send you communications about our products or services, or related topics that we think you may find of interest
+* to communicate with you as part of our marketing efforts – we use contract information and information about your use of our services to send you communications about our products or services, or related topics that we think you may find interesting
 
 # Data Integrity
 
-We process personal information only for the purposes for which it was collected and in accordance with this Privacy Statement. We regularly review our data collection, storage, and processing practices to ensure that we only collect, store, and process the minimum personal information needed for the purpose collected. We take reasonable steps to ensure that the personal information that we process is accurate, complete, and current, but we depend on our account users to update or correct their personal data whenever necessary.
+We process personal information only for the purposes for which it was collected and in accordance with this Privacy Policy. We regularly review our data collection, storage, and processing practices to ensure that we only collect, store, and process the minimum personal information needed for the purpose collected. We take reasonable steps to ensure that the personal information that we process is accurate, complete, and current, but we depend on our account users to update or correct their personal data whenever necessary.
 
 # Requests to access, amend, delete or restrict the use of your personal data
 
-Please send us a request at privacy@filestack.com if you would like to know what personal data we have about you, or would like us to correct inaccurate data, delete your personal data, or restrict the use of your personal data. We commit to responding to your request promptly and honoring your reasonable requests. We will comply with all applicable legal requirements related to your requests, but please note that we are not required by law to delete or restrict the use of your data in a way that prevents us from complying with our legal obligations to our customer or that interferes with our reasonable record keeping as necessary to demonstrate compliance with our contracts and applicable law.
+Please send us a request at privacy@tintup.com if you would like to know what personal data we have about you, or would like us to correct inaccurate data, delete your personal data, or restrict the use of your personal data. We commit to responding to your request promptly and honoring your reasonable requests. We will comply with all applicable legal requirements related to your requests, but please note that we are not required by law to delete or restrict the use of your data in a way that prevents us from complying with our legal obligations to our customer or that interferes with our reasonable record keeping as necessary to demonstrate compliance with our contracts and applicable law.
 
 #### Additional Information for California Visitors, Account Users
 
 In addition to our commitments stated above, if our collection of personal information about you for our business purposes is covered by the California Consumer Privacy Act you have the have certain rights under that law.
 
 You may request disclosure of the following specific information:
-* the categories of personal information as well as the specific pieces of personal information that we have collected about you for our business purposes over the prior 12 months:
+* the categories of personal information as well as the specific pieces of personal information that we have collected about you for our business purposes over the prior 12 months,
 
 * the categories of sources from which we have collected that personal information,
 
@@ -148,44 +149,40 @@ We have not sold or leased personal data, and will not sell or lease your person
 
 We will not disclose your personal data to third parties except as follows:
 
-#### Legal Reasons
+##### Legal Reasons
 
 When we believe release is appropriate to comply with the law, to enforce our terms of use and other rights, or to protect the rights and safety of others.
 
 This may include exchanging information with government regulatory or law enforcement agencies, or with other companies and organizations for fraud protection and legal compliance.
 
-#### Sale of Business
+##### Sale of Business
 
 As part of a sale of a sales of business assets where the purchaser needs the personal data to use the assets.
 
 We may in the future sell all or part of our assets or be involved in a merger. We may provide the company that is seeking to acquire our business with access to personal data as part of their evaluation of our business, but will require them to maintain the personal data in confidence and use it only to evaluate our business. If we complete a transaction, it is customary to transfer personal data that is related to the purchased business assets to the purchaser.
 
-#### Service Providers
+##### Service Providers
 
 We use the services of companies like the ones listed below to collect data on our behalf or to help us analyze, store, manage and otherwise process your personal data. Each of these companies commits in its contract with us to use the personal data only according to our contract with them or our other instructions as necessary to support our business. They are not authorized to use your personal data for any other purpose. They are not authorized to disclose your personal data to others except with our permission, and only if they require the others to comply with the same restrictions that apply to them.
 
 * Sendgrid - outgoing email
 * Zendesk - incoming email, support
 * DocuSign, HelloSign - E-signing
-* Stripe, bill.com - payment processing
+* Stripe, Quickbooks, bill.com - invoice, payment processing
 * Google - organization email and documents management provider
 * Google Analytics - analytics
 * Google Ads - advertising
-* Mixpanel - analytics
-* HubSpot marketing, landing pages, analytics
+* HubSpot - marketing, landing pages, analytics
 * Salesforce – customer relationship management
-* Instapage - landing pages
 * Amazon AWS – Infrastructure provider, applications
-* Mode - business intelligence
-* Qualaroo - users feedback
 
 # Advertising Ecosystem
 
-We use online advertising services that enable a practice referred to as “online behavior advertising.” These services aggregate data about an individual’s behavior on many different sites and online services, and use that data to sell targeted advertising services. For example, we permit Google’s advertising services to collect data about your behavior on the TINT site, as do many other website operators who use Google’s ad services. Google combines the data about an individual that it collects from different sources, and uses this aggregate data to sell advertising services that target the display of ads to web users who meet certain behavioral criteria.GGoogle does not disclose this aggregate data to TINT, but we are able to infer that users who interact with our ad meet the advertising criteria we provided. Google collects this data using cookies, web server logs (its own and its advertising customers), clear gifs and other online data collection techniques. See Online Data Collection Techniques and How to Opt Out of Online Data Collection.
+We use online advertising services that enable a practice referred to as “online behavior advertising.” These services aggregate data about an individual’s behavior on many different sites and online services, and use that data to sell targeted advertising services. For example, we permit Google’s advertising services to collect data about your behavior on the TINT site, as do many other website operators who use Google’s ad services. Google combines the data about an individual that it collects from different sources, and uses this aggregate data to sell advertising services that target the display of ads to web users who meet certain behavioral criteria. Google does not disclose this aggregate data to TINT, but we are able to infer that users who interact with our ad meet the advertising criteria we provided. Google collects this data using cookies, web server logs (its own and its advertising customers), clear gifs and other online data collection techniques. See Online Data Collection Techniques and How to Opt Out of Online Data Collection.
 
 # Online Data Collection Techniques
 
-A cookie is a unique alphanumeric identifier that is placed by a web server on the web visitor’s browser. Cookies are used to analyse visitors’ use of the website. For example, a website operator can use the cookie to identify the number of unique visitors to the site, whether or not those visitors are repeat visitors, and information about the visitor’s activity on the site, device and device settings. A tracking pixel, also known as a web bug or web beacon, is a small graphic (usually 1 pixel x 1 pixel) invisible to the eye, that is embedded in web content or email. When content that has an embedded web beacon is viewed, the browser will request content from a web server, which in turn will set a cookie.
+A cookie is a unique alphanumeric identifier that is placed by a web server on the web visitor’s browser. Cookies are used to analyse visitors’ use of the website. For example, a website operator can use the cookie to identify the number of unique visitors to the site, whether or not those visitors are repeat visitors, information about the visitor’s activity on the site, and the user's device and device settings. A tracking pixel, also known as a web bug or web beacon, is a small graphic (usually 1 pixel x 1 pixel) invisible to the eye, that is embedded in web content or email. When content that has an embedded web beacon is viewed, the browser will request content from a web server, which in turn will set a cookie.
 
 # How To Opt Out Of Online Data Collection
 
