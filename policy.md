@@ -15,6 +15,18 @@ Email: privacy@tintup.com or via mail: TINT – 122 East Houston St, San Antonio
 
 Please contact us if you have any questions about the information in this Privacy Statement or our handling of your personal data, or would like to access, amend, delete or take other action with regard to your personal data. We ask, however, that if we are in possession of your data solely as a service provider for our customer you first contact our customer with your request.
 
+**United Kingdom Art 27 Data Protection Representative**
+
+VeraSafe has been appointed as Hypemarks, Inc. (dba TINT)’s representative in the United Kingdom for data protection matters, pursuant to Article 27 of the United Kingdom General Data Protection Regulation as amended by Schedules 1 and 2 to the Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (SI 2019/419). If you are located within the United Kingdom, VeraSafe can be contacted only on matters relating to the processing of personal data. To make such an inquiry, please contact VeraSafe using this contact form: https://verasafe.com/public-resources/contact-data-protection-representative or via telephone at: +44 20 4532 2003.
+Alternatively, VeraSafe can be contacted at: VeraSafe United Kingdom Ltd., 37 Albert Embankment, London, SE1 7TL, United Kingdom.
+
+
+**European Union Art 27 Data Protection Representative**
+
+VeraSafe has been appointed as Hypemarks, Inc. (dba TINT)’s representative in the European Union for data protection matters, pursuant to Article 27 of the General Data Protection Regulation of the European Union. If you are located within the European Economic Area, VeraSafe can be contacted only on matters relating to the processing of personal data. To make such an inquiry, please contact VeraSafe using this contact form: https://verasafe.com/public-resources/contact-data-protection-representative or via telephone at: +420 228 881 031
+Alternatively, VeraSafe can be contacted at: VeraSafe Ireland Ltd., Unit 3D North Point House, North Point Business Park, New Mallow Road, Cork, T23AT2P Ireland.
+
+
 # Changes to Privacy Statement
 
 We may change this Privacy Statement from time to time. We will manage your personal data in accordance with the Privacy Statement version that was published on the date that we collected the data about you. Prior versions of our Privacy Statement may be found at https://github.com/filestack/tint-privacy-policy.
