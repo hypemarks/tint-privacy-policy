@@ -29,7 +29,7 @@ Alternatively, VeraSafe can be contacted at: VeraSafe Ireland Ltd., Unit 3D Nort
 
 # Changes to Privacy Statement
 
-We may change this Privacy Statement from time to time. We will manage your personal data in accordance with the Privacy Statement version that was published on the date that we collected the data about you. Prior versions of our Privacy Statement may be found at https://github.com/filestack/tint-privacy-policy.
+We may change this Privacy Statement from time to time. We will manage your personal data in accordance with the Privacy Statement version that was published on the date that we collected the data about you. Prior versions of our Privacy Statement may be found at https://github.com/hypemarks/tint-privacy-policy.
 
 # Definitions
 
