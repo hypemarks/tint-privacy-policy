@@ -1,5 +1,5 @@
 # Privacy Statement
-Revision Date: 2021/03/15
+Revision Date: 11/11/2021
 
 # Introduction
 
@@ -222,7 +222,7 @@ Children are not permitted to use our site or services. We do not knowingly coll
 
 # Security
 
-TINT protects personal data from unauthorized use, disclosure, corruption and destruction using appropriate technical and organizational measures.
+TINT protects personal data from unauthorized use, disclosure, corruption and destruction using appropriate technical and organizational measures. For more information, please see [TINT Statement of Security Practices](https://www.tintup.com/security/TINT-Statement_Of_Security_Practices.pdf).
 
 # Data Retention
 
